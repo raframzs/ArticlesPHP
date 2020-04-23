@@ -1,0 +1,6 @@
+.my-error-class {
+    color:rgb(245, 75, 75);  /* red */
+}
+.my-valid-class {
+    color:rgb(47, 165, 47); /* green */
+}
